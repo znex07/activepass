@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                  Welcome to ActivePass!!!!!!!!!!!! MARK!!!!!
+                  Welcome to ActivePass!!!!!!!!!!!! MARK!!!!! PERDON
                 </div>
 
                 <div class="links">
